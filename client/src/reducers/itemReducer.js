@@ -3,8 +3,7 @@ import {GET_ITEMS, ADD_ITEM, DELETE_ITEM, ITEMS_LOADING} from '../actions/Types'
 const initialState = {
    items: [],
    loading: false,
-
-}
+};
 
 export default function(state = initialState, action){
     switch(action.type){

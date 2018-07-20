@@ -1,4 +1,4 @@
-A simple shopping list application featuring MERN (MongoDB, Express, React, Node.js)
+A simple shopping list application featuring MERN (MongoDB, Express, React, Node.js) with full CRUD
 
  npm run dev to start BOTH client and server
 

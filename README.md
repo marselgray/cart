@@ -1,4 +1,4 @@
-#Shopping List
+# Shopping List
 
 This is a shopping list application.
 It is a MERN (MongoDB, Express, React, Node.js) application.
@@ -8,7 +8,7 @@ This app has been deloyed to Heroku. Given how slow Heroku is, you may find you 
 
 Installing
 
- ${npm run dev to start BOTH client and server}
+ ::npm run dev to start BOTH client and server::
 
 client-install allows a user to download from github and only have to run 
 
